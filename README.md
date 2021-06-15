@@ -1,1 +1,1 @@
-# dio_reactjs_l1
+# Lesson 01, course of ReactJS
