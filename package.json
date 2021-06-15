@@ -1,0 +1,24 @@
+{
+  "name": "lesson-01",
+  "version": "1.0.0",
+  "description": "Lesson 01, course of ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pzoliveira/dio_reactjs_l1.git"
+  },
+  "author": "Pericles Zapata de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pzoliveira/dio_reactjs_l1/issues"
+  },
+  "homepage": "https://github.com/pzoliveira/dio_reactjs_l1#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  }
+}
